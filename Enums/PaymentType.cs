@@ -1,0 +1,6 @@
+﻿
+enum PaymentType
+{
+    Debit,
+    Credit
+}
